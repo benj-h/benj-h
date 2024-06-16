@@ -9,7 +9,7 @@
   
 - 📚 Languages I'm learning at the moment:
   - ☕ Java
-   - incl. Android Studio
+    - incl. Android Studio
   - 🐍 Python
 
 - 📫 Reach me at bheto052@uottawa.ca

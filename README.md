@@ -8,9 +8,8 @@
   - 🔬 ... and whichever curiosity I've been digging into lately
   
 - 📚 Languages I'm learning at the moment:
-
-  - 🐍 Python
   - ☕ Java
     - incl. Android Studio
+  - 🐍 Python
 
 - 📫 Reach me at bheto052@uottawa.ca

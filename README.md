@@ -3,8 +3,9 @@
 - 🔎 My main fields of interest are:
   
   - ⚙️ Back-end development
-  - 🧰 Hardware hacking
+  - 🛠️ Hardware hacking
   - 🐧 FOSS and Linux development
+  - ... and whichever curiosity I've been digging into lately 🔬
   
 - 📚 Languages I'm learning at the moment:
 

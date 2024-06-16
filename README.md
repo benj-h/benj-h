@@ -8,7 +8,7 @@
   - 🔬 ... and whichever curiosity I've been digging into lately
   
 - 📚 Languages I'm learning at the moment:
-  - ☕ Java (incl. Android dev)
+  - ☕ Java (incl. Android devel.)
   - 🐍 Python
 
 - 📫 Reach me at bheto052@uottawa.ca

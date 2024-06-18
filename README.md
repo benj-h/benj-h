@@ -11,4 +11,4 @@
   - ☕ Java (incl. Android devel.)
   - 🐍 Python
 
-- 📫 Reach me at bheto052@uottawa.ca
+- 📫 Reach me at hetobenjamin@gmail.com

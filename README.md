@@ -5,7 +5,6 @@
   - ⚙️ Back-end development
   - 🛠️ Hardware hacking
   - 🐧 Open-source and Linux development
-  - 🔬 ... and whichever curiosity I've been digging into lately
   
 - 📚 Languages I'm learning at the moment:
   - ☕ Java (incl. Android devel.)

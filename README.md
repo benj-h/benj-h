@@ -4,7 +4,7 @@
   
   - ⚙️ Back-end development
   - 🛠️ Hardware hacking
-  - 🐧 FOSS and Linux development
+  - 🐧 Open-source and Linux development
   - 🔬 ... and whichever curiosity I've been digging into lately
   
 - 📚 Languages I'm learning at the moment:
